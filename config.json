@@ -14,6 +14,6 @@
       "security_level": "SECURITY_MODE_ENCRYPTION_NO_MITM"
     },
     "gatt_table_size": "0x700",
-    "debug": 0
+    "debug": 1
   }
 }
