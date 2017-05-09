@@ -1,7 +1,7 @@
 {
-  "name": "calliope-demo",
-  "version": "1.0.3",
-  "description": "Calliope mini Demo",
+  "name": "abbozz",
+  "version": "1.0.0",
+  "description": "Abbozza! Calliope build system",
   "license": "Apache 2.0",
   "dependencies": {
     "microbit": "calliope-mini/microbit#v2.0.0-rc8-calliope-1.0.2"
